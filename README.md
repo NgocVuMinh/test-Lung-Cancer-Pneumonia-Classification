@@ -4,7 +4,7 @@
 
 This repository contains scripts used to fine-tune deep learning models for the classification of lung cancer and non-cancer pneumonia-only using chest CT scans. Gradient-weighted Class Activation Mapping (GradCAM) was also employed to interpret the models' decision in classifying cancerous CT scans.
 
-Our manuscript is now available at [medRxiv](https://doi.org/10.1101/2024.04.12.24305708).
+Our manuscript is now available at [medRxiv](https://doi.org/10.1101/2024.04.12.24305708) and is under submission.
 
 ![](https://github.com/NgocVuMinh/Lung-Cancer-Pneumonia-Classification/blob/main/overview1.png)
 
